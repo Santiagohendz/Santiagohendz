@@ -1,16 +1,27 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**Santiagohendz/Santiagohendz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un programador autodidacta con enfoque en backend. Me apasiona el desarrollo de software y siempre estoy buscando aprender cosas nuevas.
 
-Here are some ideas to get you started:
+## Experiencia 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+He trabajado con las siguientes tecnologías:
+
+- Java
+- JavaScript
+- HTML
+- CSS
+
+## Proyectos destacados ⭐
+
+Aquí hay algunos de mis proyectos favoritos:
+
+- [Proyecto 1](https://github.com/Santiagohendz/Encriptador-HTML-y-CSS)
+- [Proyecto 2](https://github.com/Santiagohendz/Conversor-JAVA)
+
+## Contacto 🙍🏽
+
+Puedes contactarme a través de mi cuenta de LinkedIn:
+
+- LinkedIn: [santiagohendz](https://www.linkedin.com/in/santiagohendz/)
+
+¡Gracias por visitar mi perfil de GitHub! 😄
