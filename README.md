@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy un programador autodidacta con enfoque en backend. Me apasiona el desarrollo de software y siempre estoy buscando aprender cosas nuevas.
+Soy un estudiante de administración de sistemas y en mis tiempos libres apasionado por la ciberseguridad, también me gusta un poco la programación
 
 ## Experiencia 
 
